@@ -1,0 +1,7 @@
+<?php // login.php
+
+$dn = 'an112_project';
+$hn = 'localhost';
+$un = 'an112_project'
+$pw = 'an112'
+?>
